@@ -1,4 +1,4 @@
-# Reading-Time
+# Reading-Time - Computer Vision
 
 The essence of the project is to make it easier for the reader on the computer while reading so that he does not have to use the mouse to scroll down the page when he reaches the bottom of the sequel. The computer camera will detect when the reader looks at the bottom of the screen and scroll the screen for him.
 
